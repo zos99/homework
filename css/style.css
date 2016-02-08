@@ -18,17 +18,18 @@ body {
 .header {
     text-align: center;
 }
-img {
+.My__Image {
     height: 120px;
 }
-h1, img {
+.My_title, 
+.My__Image {
     font: bold 22px "Times New Roman serif"; 
     margin: 10px;
 }
-p {
+.box p {
     padding: 3px 20px;    
 }
-hr {
+.box hr {
     margin: 15px 0;
 }
 .list {
